@@ -9,7 +9,9 @@ My main aim for the project was to help people meet their new expenses in a sudd
 
 With suing Excel and python I have helped team to clean a Raw survey file obtained from Bank of England Database which had 1400 Columns and 600+ questions. Investing much of the time on Data Cleaning we were finally able to obtain relevant data with around 70 questions and 200 columns. The Main challenge here was missing values (which were a lot). I used several methods like deletion, imutation with central tendency to overcome it. 
 
-Finally I started with the analysis and visualization using Tableau, Excel and Python to make Dashboard and bring out some most needed insights. Here too Some Data Wrangling steps were followed to merge the postal code and old regions of England with the nuts value to according to new regions to accurately plot them on the map. 
+Finally I started with the analysis and visualization using Tableau, Excel and Python to make Dashboard and bring out some most needed insights. Here too Some Data Wrangling steps were followed to merge the postal code and old regions of England with the nuts value to according to new regions to accurately plot them on the map.
+https://public.tableau.com/app/profile/parash3039/viz/IncomeDistribution_16503679844760/Dashboard1
+https://public.tableau.com/app/profile/parash3039/viz/MonthlyLeftover/Dashboard2
 
 lastly I used some suervsed machine learning algorithms to predict which households are likely to Budget their exenses based on certain Survey question and that was further took into pproduction for determining the expense categories and amount accordingly. 
 
